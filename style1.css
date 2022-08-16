@@ -1,0 +1,25 @@
+.a{
+    border-color:pink ;
+    border-width:200px;
+    border-style:dashed ;
+    text-align:center;
+}
+body{
+background-color:lightpink;
+}
+.c{
+    display:inline-block;
+}
+.mom{
+    display:inline-block;
+    
+}
+.dad{
+    display:inline-block;
+}
+.flex{
+    display:flex;
+    justify-content: space-between ;
+}
+
+
